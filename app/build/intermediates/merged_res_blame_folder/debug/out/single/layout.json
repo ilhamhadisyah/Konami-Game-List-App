@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/home/ilham/AndroidStudioProjects/ListOfGames/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/game_item.xml",
+        "source": "/home/ilham/AndroidStudioProjects/ListOfGames/app/src/main/res/layout/game_item.xml"
+    },
+    {
+        "merged": "/home/ilham/AndroidStudioProjects/ListOfGames/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/custom_toolbar.xml",
+        "source": "/home/ilham/AndroidStudioProjects/ListOfGames/app/src/main/res/layout/custom_toolbar.xml"
+    },
+    {
+        "merged": "/home/ilham/AndroidStudioProjects/ListOfGames/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_main.xml",
+        "source": "/home/ilham/AndroidStudioProjects/ListOfGames/app/src/main/res/layout/activity_main.xml"
+    }
+]

@@ -1,0 +1,8 @@
+com/example/listofgames/databinding/GameItemBinding.java
+ com.example.listofgames.databinding.GameItemBinding
+com/example/listofgames/databinding/ActivityMainBinding.java
+ com.example.listofgames.databinding.ActivityMainBinding
+com/example/listofgames/BuildConfig.java
+ com.example.listofgames.BuildConfig
+com/example/listofgames/databinding/CustomToolbarBinding.java
+ com.example.listofgames.databinding.CustomToolbarBinding
