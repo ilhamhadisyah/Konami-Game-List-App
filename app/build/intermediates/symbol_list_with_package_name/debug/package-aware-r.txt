@@ -1919,7 +1919,6 @@ id auto
 id autoComplete
 id autoCompleteToEnd
 id autoCompleteToStart
-id banner
 id barrier
 id baseline
 id beginOnFirstDraw
@@ -1981,6 +1980,7 @@ id design_menu_item_action_area
 id design_menu_item_action_area_stub
 id design_menu_item_text
 id design_navigation_view
+id developer
 id dialog_button
 id dimensions
 id direct
@@ -2008,6 +2008,7 @@ id end
 id endToStart
 id enterAlways
 id enterAlwaysCollapsed
+id europe_release
 id exitUntilCollapsed
 id expand_activities_button
 id expanded_menu
@@ -2051,6 +2052,7 @@ id invisible
 id inward
 id italic
 id item_touch_helper_previous_elevation
+id japan_release
 id jumpToEnd
 id jumpToStart
 id labeled
@@ -2133,6 +2135,7 @@ id noState
 id none
 id normal
 id north
+id north_america_release
 id notification_background
 id notification_main_column
 id notification_main_column_container
@@ -2153,12 +2156,12 @@ id pathRelative
 id peekHeight
 id percent
 id pin
-id platfrom
 id position
 id postLayout
 id progress
 id progress_circular
 id progress_horizontal
+id publisher
 id radio
 id ratio
 id rectangles
@@ -2565,6 +2568,7 @@ string path_password_eye
 string path_password_eye_mask_strike_through
 string path_password_eye_mask_visible
 string path_password_strike_through
+string releases
 string search_menu_title
 string status_bar_notification_info_overflow
 style AlertDialog_AppCompat

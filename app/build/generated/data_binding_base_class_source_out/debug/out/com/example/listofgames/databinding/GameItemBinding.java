@@ -4,7 +4,6 @@ package com.example.listofgames.databinding;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
-import android.widget.ImageView;
 import android.widget.TextView;
 import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
@@ -20,20 +19,33 @@ public final class GameItemBinding implements ViewBinding {
   private final CardView rootView;
 
   @NonNull
-  public final ImageView banner;
+  public final TextView developer;
+
+  @NonNull
+  public final TextView europeRelease;
+
+  @NonNull
+  public final TextView japanRelease;
 
   @NonNull
   public final TextView name;
 
   @NonNull
-  public final TextView platfrom;
+  public final TextView northAmericaRelease;
 
-  private GameItemBinding(@NonNull CardView rootView, @NonNull ImageView banner,
-      @NonNull TextView name, @NonNull TextView platfrom) {
+  @NonNull
+  public final TextView publisher;
+
+  private GameItemBinding(@NonNull CardView rootView, @NonNull TextView developer,
+      @NonNull TextView europeRelease, @NonNull TextView japanRelease, @NonNull TextView name,
+      @NonNull TextView northAmericaRelease, @NonNull TextView publisher) {
     this.rootView = rootView;
-    this.banner = banner;
+    this.developer = developer;
+    this.europeRelease = europeRelease;
+    this.japanRelease = japanRelease;
     this.name = name;
-    this.platfrom = platfrom;
+    this.northAmericaRelease = northAmericaRelease;
+    this.publisher = publisher;
   }
 
   @Override
@@ -63,9 +75,21 @@ public final class GameItemBinding implements ViewBinding {
     // This is done to optimize the compiled bytecode for size and performance.
     int id;
     missingId: {
-      id = R.id.banner;
-      ImageView banner = rootView.findViewById(id);
-      if (banner == null) {
+      id = R.id.developer;
+      TextView developer = rootView.findViewById(id);
+      if (developer == null) {
+        break missingId;
+      }
+
+      id = R.id.europe_release;
+      TextView europeRelease = rootView.findViewById(id);
+      if (europeRelease == null) {
+        break missingId;
+      }
+
+      id = R.id.japan_release;
+      TextView japanRelease = rootView.findViewById(id);
+      if (japanRelease == null) {
         break missingId;
       }
 
@@ -75,13 +99,20 @@ public final class GameItemBinding implements ViewBinding {
         break missingId;
       }
 
-      id = R.id.platfrom;
-      TextView platfrom = rootView.findViewById(id);
-      if (platfrom == null) {
+      id = R.id.north_america_release;
+      TextView northAmericaRelease = rootView.findViewById(id);
+      if (northAmericaRelease == null) {
         break missingId;
       }
 
-      return new GameItemBinding((CardView) rootView, banner, name, platfrom);
+      id = R.id.publisher;
+      TextView publisher = rootView.findViewById(id);
+      if (publisher == null) {
+        break missingId;
+      }
+
+      return new GameItemBinding((CardView) rootView, developer, europeRelease, japanRelease, name,
+          northAmericaRelease, publisher);
     }
     String missingId = rootView.getResources().getResourceName(id);
     throw new NullPointerException("Missing required view with ID: ".concat(missingId));
