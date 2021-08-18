@@ -15,15 +15,18 @@ class Adapter(private val data: List<ResponseItem>) : RecyclerView.Adapter<Adapt
     inner class ViewHolder(itemView: View) : RecyclerView.ViewHolder(itemView) {
         private val binding = GameItemBinding.bind(itemView)
 
-        fun bind(data : ResponseItem){
+        fun bind(data: ResponseItem) {
             binding.name.text = data.name
             binding.platfrom.text = data.dataPlatform
-            Picasso.get().load(UrlBuilder.makeUrl(data.img!!)).into(binding.banner)
+            Picasso.get().load(UrlBuilder.makeUrl(data.img!!))
+                .placeholder(R.drawable.image_not_available).into(binding.banner)
         }
     }
 
     override fun onCreateViewHolder(parent: ViewGroup, viewType: Int): ViewHolder {
-        return ViewHolder(LayoutInflater.from(parent.context).inflate(R.layout.game_item,parent,false))
+        return ViewHolder(
+            LayoutInflater.from(parent.context).inflate(R.layout.game_item, parent, false)
+        )
     }
 
     override fun onBindViewHolder(holder: ViewHolder, position: Int) {

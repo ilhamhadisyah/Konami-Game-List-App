@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/home/ilham/AndroidStudioProjects/ListOfGames/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-small-v4/values-small-v4.xml",
+            "outputFile": "D:\\android\\Konami-Game-List-App\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-small-v4\\values-small-v4.xml",
             "map": [
                 {
-                    "source": "/home/ilham/.gradle/caches/transforms-3/b3a1b10170dc3b0d106f5a2151e726da/transformed/material-1.4.0/res/values-small-v4/values-small-v4.xml",
+                    "source": "C:\\Users\\Ilham Hadisyah\\.gradle\\caches\\transforms-3\\96e910cabd2169c0d2f61f4f23fec1ce\\transformed\\material-1.4.0\\res\\values-small-v4\\values-small-v4.xml",
                     "from": {
                         "startLines": "2,3,4,5",
                         "startColumns": "4,4,4,4",

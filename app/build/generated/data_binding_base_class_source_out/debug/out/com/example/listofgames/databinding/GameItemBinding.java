@@ -10,7 +10,6 @@ import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
 import androidx.cardview.widget.CardView;
 import androidx.viewbinding.ViewBinding;
-import androidx.viewbinding.ViewBindings;
 import com.example.listofgames.R;
 import java.lang.NullPointerException;
 import java.lang.Override;
@@ -65,19 +64,19 @@ public final class GameItemBinding implements ViewBinding {
     int id;
     missingId: {
       id = R.id.banner;
-      ImageView banner = ViewBindings.findChildViewById(rootView, id);
+      ImageView banner = rootView.findViewById(id);
       if (banner == null) {
         break missingId;
       }
 
       id = R.id.name;
-      TextView name = ViewBindings.findChildViewById(rootView, id);
+      TextView name = rootView.findViewById(id);
       if (name == null) {
         break missingId;
       }
 
       id = R.id.platfrom;
-      TextView platfrom = ViewBindings.findChildViewById(rootView, id);
+      TextView platfrom = rootView.findViewById(id);
       if (platfrom == null) {
         break missingId;
       }

@@ -3,6 +3,7 @@ package com.example.listofgames.ui
 import android.os.Build
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import android.view.View
 import androidx.annotation.RequiresApi
 import androidx.appcompat.app.ActionBar
 import androidx.lifecycle.Observer
@@ -43,13 +44,14 @@ class MainActivity : AppCompatActivity() {
             it?.let { resource ->
                 when (resource.status) {
                     Status.SUCCESS -> {
+                        binding.progress.visibility = View.GONE
                         resource.data?.let { data ->
                             adapter = Adapter(data)
                             binding.rvGames.adapter = adapter
                         }
                     }
-                    Status.ERROR -> TODO()
-                    Status.LOADING -> TODO()
+                    Status.ERROR -> {}
+                    Status.LOADING -> {binding.progress.visibility = View.VISIBLE}
                 }
             }
 

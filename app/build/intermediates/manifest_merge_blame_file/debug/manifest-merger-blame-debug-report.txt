@@ -5,69 +5,70 @@
 5    android:versionName="1.0" >
 6
 7    <uses-sdk
-8        android:minSdkVersion="21"
-8-->/home/ilham/AndroidStudioProjects/ListOfGames/app/src/main/AndroidManifest.xml
-9        android:targetSdkVersion="31" />
-9-->/home/ilham/AndroidStudioProjects/ListOfGames/app/src/main/AndroidManifest.xml
+8        android:minSdkVersion="27"
+8-->D:\android\Konami-Game-List-App\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="30" />
+9-->D:\android\Konami-Game-List-App\app\src\main\AndroidManifest.xml
 10
 11    <uses-permission android:name="android.permission.INTERNET" />
-11-->/home/ilham/AndroidStudioProjects/ListOfGames/app/src/main/AndroidManifest.xml:4:5-66
-11-->/home/ilham/AndroidStudioProjects/ListOfGames/app/src/main/AndroidManifest.xml:4:22-64
+11-->D:\android\Konami-Game-List-App\app\src\main\AndroidManifest.xml:4:5-66
+11-->D:\android\Konami-Game-List-App\app\src\main\AndroidManifest.xml:4:22-64
 12
 13    <application
-13-->/home/ilham/AndroidStudioProjects/ListOfGames/app/src/main/AndroidManifest.xml:5:5-21:19
+13-->D:\android\Konami-Game-List-App\app\src\main\AndroidManifest.xml:5:5-21:19
 14        android:allowBackup="true"
-14-->/home/ilham/AndroidStudioProjects/ListOfGames/app/src/main/AndroidManifest.xml:6:9-35
+14-->D:\android\Konami-Game-List-App\app\src\main\AndroidManifest.xml:6:9-35
 15        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
-15-->[androidx.core:core:1.6.0] /home/ilham/.gradle/caches/transforms-3/55610e6da332357fac2ae4dc08261766/transformed/core-1.6.0/AndroidManifest.xml:24:18-86
+15-->[androidx.core:core:1.6.0] C:\Users\Ilham Hadisyah\.gradle\caches\transforms-3\3f46c171d7716136b037b47f5a6f889e\transformed\core-1.6.0\AndroidManifest.xml:24:18-86
 16        android:debuggable="true"
-17        android:icon="@mipmap/ic_launcher"
-17-->/home/ilham/AndroidStudioProjects/ListOfGames/app/src/main/AndroidManifest.xml:7:9-43
-18        android:label="@string/app_name"
-18-->/home/ilham/AndroidStudioProjects/ListOfGames/app/src/main/AndroidManifest.xml:8:9-41
-19        android:roundIcon="@mipmap/ic_launcher_round"
-19-->/home/ilham/AndroidStudioProjects/ListOfGames/app/src/main/AndroidManifest.xml:9:9-54
-20        android:supportsRtl="true"
-20-->/home/ilham/AndroidStudioProjects/ListOfGames/app/src/main/AndroidManifest.xml:10:9-35
-21        android:testOnly="true"
-22        android:theme="@style/Theme.ListOfGames" >
-22-->/home/ilham/AndroidStudioProjects/ListOfGames/app/src/main/AndroidManifest.xml:11:9-49
-23        <activity
-23-->/home/ilham/AndroidStudioProjects/ListOfGames/app/src/main/AndroidManifest.xml:12:9-20:20
-24            android:name="com.example.listofgames.ui.MainActivity"
-24-->/home/ilham/AndroidStudioProjects/ListOfGames/app/src/main/AndroidManifest.xml:13:13-44
-25            android:exported="true" >
-25-->/home/ilham/AndroidStudioProjects/ListOfGames/app/src/main/AndroidManifest.xml:14:13-36
-26            <intent-filter>
-26-->/home/ilham/AndroidStudioProjects/ListOfGames/app/src/main/AndroidManifest.xml:15:13-19:29
-27                <action android:name="android.intent.action.MAIN" />
-27-->/home/ilham/AndroidStudioProjects/ListOfGames/app/src/main/AndroidManifest.xml:16:17-69
-27-->/home/ilham/AndroidStudioProjects/ListOfGames/app/src/main/AndroidManifest.xml:16:25-66
-28
-29                <category android:name="android.intent.category.LAUNCHER" />
-29-->/home/ilham/AndroidStudioProjects/ListOfGames/app/src/main/AndroidManifest.xml:18:17-77
-29-->/home/ilham/AndroidStudioProjects/ListOfGames/app/src/main/AndroidManifest.xml:18:27-74
-30            </intent-filter>
-31        </activity>
-32
-33        <provider
-33-->[com.squareup.picasso:picasso:2.71828] /home/ilham/.gradle/caches/transforms-3/1db028e6c333d69d17c897acc411ad49/transformed/jetified-picasso-2.71828/AndroidManifest.xml:8:9-11:40
-34            android:name="com.squareup.picasso.PicassoProvider"
-34-->[com.squareup.picasso:picasso:2.71828] /home/ilham/.gradle/caches/transforms-3/1db028e6c333d69d17c897acc411ad49/transformed/jetified-picasso-2.71828/AndroidManifest.xml:9:13-64
-35            android:authorities="com.example.listofgames.com.squareup.picasso"
-35-->[com.squareup.picasso:picasso:2.71828] /home/ilham/.gradle/caches/transforms-3/1db028e6c333d69d17c897acc411ad49/transformed/jetified-picasso-2.71828/AndroidManifest.xml:10:13-72
-36            android:exported="false" />
-36-->[com.squareup.picasso:picasso:2.71828] /home/ilham/.gradle/caches/transforms-3/1db028e6c333d69d17c897acc411ad49/transformed/jetified-picasso-2.71828/AndroidManifest.xml:11:13-37
-37        <provider
-37-->[androidx.lifecycle:lifecycle-process:2.0.0] /home/ilham/.gradle/caches/transforms-3/c3aafc433c0ee5b31cd4d483df286dc5/transformed/jetified-lifecycle-process-2.0.0/AndroidManifest.xml:23:9-27:43
-38            android:name="androidx.lifecycle.ProcessLifecycleOwnerInitializer"
-38-->[androidx.lifecycle:lifecycle-process:2.0.0] /home/ilham/.gradle/caches/transforms-3/c3aafc433c0ee5b31cd4d483df286dc5/transformed/jetified-lifecycle-process-2.0.0/AndroidManifest.xml:24:13-79
-39            android:authorities="com.example.listofgames.lifecycle-process"
-39-->[androidx.lifecycle:lifecycle-process:2.0.0] /home/ilham/.gradle/caches/transforms-3/c3aafc433c0ee5b31cd4d483df286dc5/transformed/jetified-lifecycle-process-2.0.0/AndroidManifest.xml:25:13-69
-40            android:exported="false"
-40-->[androidx.lifecycle:lifecycle-process:2.0.0] /home/ilham/.gradle/caches/transforms-3/c3aafc433c0ee5b31cd4d483df286dc5/transformed/jetified-lifecycle-process-2.0.0/AndroidManifest.xml:26:13-37
-41            android:multiprocess="true" />
-41-->[androidx.lifecycle:lifecycle-process:2.0.0] /home/ilham/.gradle/caches/transforms-3/c3aafc433c0ee5b31cd4d483df286dc5/transformed/jetified-lifecycle-process-2.0.0/AndroidManifest.xml:27:13-40
-42    </application>
-43
-44</manifest>
+17        android:extractNativeLibs="false"
+18        android:icon="@mipmap/ic_launcher"
+18-->D:\android\Konami-Game-List-App\app\src\main\AndroidManifest.xml:7:9-43
+19        android:label="@string/app_name"
+19-->D:\android\Konami-Game-List-App\app\src\main\AndroidManifest.xml:8:9-41
+20        android:roundIcon="@mipmap/ic_launcher_round"
+20-->D:\android\Konami-Game-List-App\app\src\main\AndroidManifest.xml:9:9-54
+21        android:supportsRtl="true"
+21-->D:\android\Konami-Game-List-App\app\src\main\AndroidManifest.xml:10:9-35
+22        android:testOnly="true"
+23        android:theme="@style/Theme.ListOfGames" >
+23-->D:\android\Konami-Game-List-App\app\src\main\AndroidManifest.xml:11:9-49
+24        <activity
+24-->D:\android\Konami-Game-List-App\app\src\main\AndroidManifest.xml:12:9-20:20
+25            android:name="com.example.listofgames.ui.MainActivity"
+25-->D:\android\Konami-Game-List-App\app\src\main\AndroidManifest.xml:13:13-44
+26            android:exported="true" >
+26-->D:\android\Konami-Game-List-App\app\src\main\AndroidManifest.xml:14:13-36
+27            <intent-filter>
+27-->D:\android\Konami-Game-List-App\app\src\main\AndroidManifest.xml:15:13-19:29
+28                <action android:name="android.intent.action.MAIN" />
+28-->D:\android\Konami-Game-List-App\app\src\main\AndroidManifest.xml:16:17-69
+28-->D:\android\Konami-Game-List-App\app\src\main\AndroidManifest.xml:16:25-66
+29
+30                <category android:name="android.intent.category.LAUNCHER" />
+30-->D:\android\Konami-Game-List-App\app\src\main\AndroidManifest.xml:18:17-77
+30-->D:\android\Konami-Game-List-App\app\src\main\AndroidManifest.xml:18:27-74
+31            </intent-filter>
+32        </activity>
+33
+34        <provider
+34-->[com.squareup.picasso:picasso:2.71828] C:\Users\Ilham Hadisyah\.gradle\caches\transforms-3\698cefe31c7099783ce9a50401f769b8\transformed\jetified-picasso-2.71828\AndroidManifest.xml:8:9-11:40
+35            android:name="com.squareup.picasso.PicassoProvider"
+35-->[com.squareup.picasso:picasso:2.71828] C:\Users\Ilham Hadisyah\.gradle\caches\transforms-3\698cefe31c7099783ce9a50401f769b8\transformed\jetified-picasso-2.71828\AndroidManifest.xml:9:13-64
+36            android:authorities="com.example.listofgames.com.squareup.picasso"
+36-->[com.squareup.picasso:picasso:2.71828] C:\Users\Ilham Hadisyah\.gradle\caches\transforms-3\698cefe31c7099783ce9a50401f769b8\transformed\jetified-picasso-2.71828\AndroidManifest.xml:10:13-72
+37            android:exported="false" />
+37-->[com.squareup.picasso:picasso:2.71828] C:\Users\Ilham Hadisyah\.gradle\caches\transforms-3\698cefe31c7099783ce9a50401f769b8\transformed\jetified-picasso-2.71828\AndroidManifest.xml:11:13-37
+38        <provider
+38-->[androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\Ilham Hadisyah\.gradle\caches\transforms-3\aae1b1d03318d4c5c89c4e8a3c4e2356\transformed\jetified-lifecycle-process-2.0.0\AndroidManifest.xml:23:9-27:43
+39            android:name="androidx.lifecycle.ProcessLifecycleOwnerInitializer"
+39-->[androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\Ilham Hadisyah\.gradle\caches\transforms-3\aae1b1d03318d4c5c89c4e8a3c4e2356\transformed\jetified-lifecycle-process-2.0.0\AndroidManifest.xml:24:13-79
+40            android:authorities="com.example.listofgames.lifecycle-process"
+40-->[androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\Ilham Hadisyah\.gradle\caches\transforms-3\aae1b1d03318d4c5c89c4e8a3c4e2356\transformed\jetified-lifecycle-process-2.0.0\AndroidManifest.xml:25:13-69
+41            android:exported="false"
+41-->[androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\Ilham Hadisyah\.gradle\caches\transforms-3\aae1b1d03318d4c5c89c4e8a3c4e2356\transformed\jetified-lifecycle-process-2.0.0\AndroidManifest.xml:26:13-37
+42            android:multiprocess="true" />
+42-->[androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\Ilham Hadisyah\.gradle\caches\transforms-3\aae1b1d03318d4c5c89c4e8a3c4e2356\transformed\jetified-lifecycle-process-2.0.0\AndroidManifest.xml:27:13-40
+43    </application>
+44
+45</manifest>

@@ -1,237 +1,237 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /home/ilham/AndroidStudioProjects/ListOfGames/app/src/main/AndroidManifest.xml:2:1-23:12
-INJECTED from /home/ilham/AndroidStudioProjects/ListOfGames/app/src/main/AndroidManifest.xml:2:1-23:12
-INJECTED from /home/ilham/AndroidStudioProjects/ListOfGames/app/src/main/AndroidManifest.xml:2:1-23:12
-INJECTED from /home/ilham/AndroidStudioProjects/ListOfGames/app/src/main/AndroidManifest.xml:2:1-23:12
-MERGED from [androidx.databinding:viewbinding:7.0.0] /home/ilham/.gradle/caches/transforms-3/adaf1e17893e36073e47f0a7979d375b/transformed/jetified-viewbinding-7.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.core:core-ktx:1.6.0] /home/ilham/.gradle/caches/transforms-3/2ae071a20af21b0eab3fba04603e06d3/transformed/jetified-core-ktx-1.6.0/AndroidManifest.xml:2:1-9:12
-MERGED from [com.google.android.material:material:1.4.0] /home/ilham/.gradle/caches/transforms-3/b3a1b10170dc3b0d106f5a2151e726da/transformed/material-1.4.0/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.constraintlayout:constraintlayout:2.1.0] /home/ilham/.gradle/caches/transforms-3/793820e7ab749e289a6dfadebd25f7a8/transformed/constraintlayout-2.1.0/AndroidManifest.xml:2:1-11:12
-MERGED from [androidx.appcompat:appcompat:1.3.1] /home/ilham/.gradle/caches/transforms-3/61acccfaa5da4b0e583a74dfb4979cab/transformed/appcompat-1.3.1/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.3.1] /home/ilham/.gradle/caches/transforms-3/7fc6bd5a02220f44771e338a04447c69/transformed/jetified-lifecycle-livedata-ktx-2.3.1/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.3.1] /home/ilham/.gradle/caches/transforms-3/13dba33c1cf2c734452952b93704a061/transformed/jetified-lifecycle-livedata-core-ktx-2.3.1/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] /home/ilham/.gradle/caches/transforms-3/abf3bdbc47784067beeac3acd13d9edb/transformed/lifecycle-extensions-2.0.0/AndroidManifest.xml:17:1-25:12
-MERGED from [androidx.viewpager2:viewpager2:1.0.0] /home/ilham/.gradle/caches/transforms-3/93a46ec76b5dbff36cd15eef62f6695c/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.fragment:fragment:1.3.6] /home/ilham/.gradle/caches/transforms-3/798cfbf5c4e6d531e7ee2fb1e3e48321/transformed/fragment-1.3.6/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.activity:activity:1.2.4] /home/ilham/.gradle/caches/transforms-3/37fd7562e6b0ddaaa35a21781854ae1d/transformed/jetified-activity-1.2.4/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /home/ilham/.gradle/caches/transforms-3/0db9a459d00b28ae4bf0f68cbf9b0403/transformed/jetified-lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /home/ilham/.gradle/caches/transforms-3/171e5935551f5d89958ee9a4251cef3a/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/ilham/.gradle/caches/transforms-3/20ca16fca85f4b2a4984298eb74f0520/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.loader:loader:1.0.0] /home/ilham/.gradle/caches/transforms-3/78d86d3ffb2a95636c992f4c00fedd82/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /home/ilham/.gradle/caches/transforms-3/54f87c9117341ab6f00d0bd7ac140546/transformed/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:17:1-24:12
-MERGED from [com.squareup.picasso:picasso:2.71828] /home/ilham/.gradle/caches/transforms-3/1db028e6c333d69d17c897acc411ad49/transformed/jetified-picasso-2.71828/AndroidManifest.xml:2:1-14:12
-MERGED from [androidx.appcompat:appcompat-resources:1.3.1] /home/ilham/.gradle/caches/transforms-3/93b562d80bb9f52548458110fe3a510b/transformed/jetified-appcompat-resources-1.3.1/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/ilham/.gradle/caches/transforms-3/9f3f70fe3c5748f47a60d6df968b472b/transformed/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /home/ilham/.gradle/caches/transforms-3/b5e4aec913c998c2c6b5b69c7b85b336/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.transition:transition:1.2.0] /home/ilham/.gradle/caches/transforms-3/9a6ba5868ffa21e3a502d3b6d1546e24/transformed/transition-1.2.0/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/ilham/.gradle/caches/transforms-3/33a73de36ff91b4481bcbf823554dde6/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/ilham/.gradle/caches/transforms-3/ac54c9e26f63dfb8bb8bf158b2fa48c5/transformed/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.viewpager:viewpager:1.0.0] /home/ilham/.gradle/caches/transforms-3/334ee10e193b8bbdd77482f85dc62e54/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.recyclerview:recyclerview:1.1.0] /home/ilham/.gradle/caches/transforms-3/1a6c2cfe6e08007d4aabde446059d675/transformed/recyclerview-1.1.0/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.customview:customview:1.0.0] /home/ilham/.gradle/caches/transforms-3/6dfef288d5aeac785249c5e283668e6b/transformed/customview-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.core:core:1.6.0] /home/ilham/.gradle/caches/transforms-3/55610e6da332357fac2ae4dc08261766/transformed/core-1.6.0/AndroidManifest.xml:17:1-26:12
-MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/ilham/.gradle/caches/transforms-3/c836c6e09b32f781302c2d82c41a67f3/transformed/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.savedstate:savedstate:1.1.0] /home/ilham/.gradle/caches/transforms-3/c7d56aac42a83c569a3c9407e05f4e14/transformed/jetified-savedstate-1.1.0/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] /home/ilham/.gradle/caches/transforms-3/c3aafc433c0ee5b31cd4d483df286dc5/transformed/jetified-lifecycle-process-2.0.0/AndroidManifest.xml:17:1-30:12
-MERGED from [androidx.lifecycle:lifecycle-service:2.0.0] /home/ilham/.gradle/caches/transforms-3/cfadef132c1112f3e38e6afa9f03f7f9/transformed/jetified-lifecycle-service-2.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] /home/ilham/.gradle/caches/transforms-3/508005d3b0650c4e16a1a2c503d38b1c/transformed/lifecycle-runtime-2.3.1/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.cardview:cardview:1.0.0] /home/ilham/.gradle/caches/transforms-3/f2aa32899dd0d92b8e2019bd76f2777e/transformed/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.exifinterface:exifinterface:1.0.0] /home/ilham/.gradle/caches/transforms-3/e45ad253c32043c1a59566b9f4d59176/transformed/exifinterface-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/ilham/.gradle/caches/transforms-3/b81b1ab99a616afc06a427b981a57a9b/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
-MERGED from [androidx.tracing:tracing:1.0.0] /home/ilham/.gradle/caches/transforms-3/93043ba4efcb0a4d2c175dd094557e68/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.lifecycle:lifecycle-livedata:2.3.1] /home/ilham/.gradle/caches/transforms-3/2fd68a1780cd5a126d1f127e08ff76af/transformed/lifecycle-livedata-2.3.1/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /home/ilham/.gradle/caches/transforms-3/fb02655388e1efa90286795986682d0d/transformed/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.arch.core:core-runtime:2.1.0] /home/ilham/.gradle/caches/transforms-3/9b849fca4b83e9149fca3748c2b17d26/transformed/core-runtime-2.1.0/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.interpolator:interpolator:1.0.0] /home/ilham/.gradle/caches/transforms-3/32fcf832b1a1f59d89039bfa7168020c/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.documentfile:documentfile:1.0.0] /home/ilham/.gradle/caches/transforms-3/cbfdc8e0dd6c76a45b3b9b082003e820/transformed/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/ilham/.gradle/caches/transforms-3/11f03cc4cb081c4ca55734a430f8a6e3/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.print:print:1.0.0] /home/ilham/.gradle/caches/transforms-3/9f618cadd33348184d9a5e292d0a8872/transformed/print-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.annotation:annotation-experimental:1.1.0] /home/ilham/.gradle/caches/transforms-3/5486cfd0eaf0289acc7e8bd8ff9badf5/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:17:1-24:12
-INJECTED from /home/ilham/AndroidStudioProjects/ListOfGames/app/src/main/AndroidManifest.xml:2:1-23:12
-INJECTED from /home/ilham/AndroidStudioProjects/ListOfGames/app/src/main/AndroidManifest.xml:2:1-23:12
-INJECTED from /home/ilham/AndroidStudioProjects/ListOfGames/app/src/main/AndroidManifest.xml:2:1-23:12
+ADDED from D:\android\Konami-Game-List-App\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from D:\android\Konami-Game-List-App\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from D:\android\Konami-Game-List-App\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from D:\android\Konami-Game-List-App\app\src\main\AndroidManifest.xml:2:1-23:12
+MERGED from [androidx.databinding:viewbinding:4.1.3] C:\Users\Ilham Hadisyah\.gradle\caches\transforms-3\2bc6c08f8f132614f088bfef060b4520\transformed\jetified-viewbinding-4.1.3\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core-ktx:1.6.0] C:\Users\Ilham Hadisyah\.gradle\caches\transforms-3\faff89c9781480492d3beeb39044dcd4\transformed\jetified-core-ktx-1.6.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.material:material:1.4.0] C:\Users\Ilham Hadisyah\.gradle\caches\transforms-3\96e910cabd2169c0d2f61f4f23fec1ce\transformed\material-1.4.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.0] C:\Users\Ilham Hadisyah\.gradle\caches\transforms-3\5652eb31fae7ea9bc387005e989e410e\transformed\constraintlayout-2.1.0\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.3.1] C:\Users\Ilham Hadisyah\.gradle\caches\transforms-3\aa64cdf6960026362d41e2a53a56dcdb\transformed\appcompat-1.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.3.1] C:\Users\Ilham Hadisyah\.gradle\caches\transforms-3\0202abaaccafcca5b9a4671330283aa9\transformed\jetified-lifecycle-livedata-ktx-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.3.1] C:\Users\Ilham Hadisyah\.gradle\caches\transforms-3\1c34cc52550abb810325a57a701c88ca\transformed\jetified-lifecycle-livedata-core-ktx-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] C:\Users\Ilham Hadisyah\.gradle\caches\transforms-3\4c3e6e4a6a2ec34e44b83f5a3f8897ef\transformed\lifecycle-extensions-2.0.0\AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Ilham Hadisyah\.gradle\caches\transforms-3\d2ad64aef1b31f01de4d077f48694151\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\Ilham Hadisyah\.gradle\caches\transforms-3\8ddd915c030e4f800a90f54d9f82e5be\transformed\fragment-1.3.6\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.2.4] C:\Users\Ilham Hadisyah\.gradle\caches\transforms-3\326f1c788b61134c126464cf515e184c\transformed\jetified-activity-1.2.4\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] C:\Users\Ilham Hadisyah\.gradle\caches\transforms-3\061eb86d1f11920b3fe6071354d0e23d\transformed\jetified-lifecycle-viewmodel-savedstate-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\Ilham Hadisyah\.gradle\caches\transforms-3\f4ae1ad8c385c68b7ea62e08b3a8412d\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Ilham Hadisyah\.gradle\caches\transforms-3\c79b42bb65bcf0f32586e9b792635c27\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Ilham Hadisyah\.gradle\caches\transforms-3\25a46df0648c20e43b3fdcff4a8766e2\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] C:\Users\Ilham Hadisyah\.gradle\caches\transforms-3\cd121951937eaa9011403c87ea4922ec\transformed\lifecycle-viewmodel-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\Ilham Hadisyah\.gradle\caches\transforms-3\698cefe31c7099783ce9a50401f769b8\transformed\jetified-picasso-2.71828\AndroidManifest.xml:2:1-14:12
+MERGED from [androidx.appcompat:appcompat-resources:1.3.1] C:\Users\Ilham Hadisyah\.gradle\caches\transforms-3\89a6a611b05ae01ce2aed75e90d0e7f9\transformed\jetified-appcompat-resources-1.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Ilham Hadisyah\.gradle\caches\transforms-3\e6de65a51395dc3bad441f6fc631ccf3\transformed\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\Ilham Hadisyah\.gradle\caches\transforms-3\c8f447214305f2883bab7ebd1b954eda\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\Ilham Hadisyah\.gradle\caches\transforms-3\60774fe33d87977db90d8e2fb01d6bb6\transformed\transition-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Ilham Hadisyah\.gradle\caches\transforms-3\ac8a8548b48905de80ab47ddc25da5eb\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Ilham Hadisyah\.gradle\caches\transforms-3\9f9063bbaa1a488b6013cbf104321b98\transformed\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Ilham Hadisyah\.gradle\caches\transforms-3\a686db9e271dd23b7d66aee47e98382b\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Ilham Hadisyah\.gradle\caches\transforms-3\9e6ac5e549cdc30475ba135bf968441d\transformed\recyclerview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Ilham Hadisyah\.gradle\caches\transforms-3\97b1f4fec3c2806584dc83b9e1e7958e\transformed\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.6.0] C:\Users\Ilham Hadisyah\.gradle\caches\transforms-3\3f46c171d7716136b037b47f5a6f889e\transformed\core-1.6.0\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Ilham Hadisyah\.gradle\caches\transforms-3\f1d848eaf007dfb4f9228b772cc44027\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.1.0] C:\Users\Ilham Hadisyah\.gradle\caches\transforms-3\5064f63324c1789e8ddc0334603fbab5\transformed\jetified-savedstate-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\Ilham Hadisyah\.gradle\caches\transforms-3\aae1b1d03318d4c5c89c4e8a3c4e2356\transformed\jetified-lifecycle-process-2.0.0\AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.lifecycle:lifecycle-service:2.0.0] C:\Users\Ilham Hadisyah\.gradle\caches\transforms-3\4116bacfcd03626d8bafbe003b740584\transformed\jetified-lifecycle-service-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] C:\Users\Ilham Hadisyah\.gradle\caches\transforms-3\9c82f8ab2d5206caa6017e7d0246c30f\transformed\lifecycle-runtime-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Ilham Hadisyah\.gradle\caches\transforms-3\5abf9b6cc672b347d7bc087a4fdb3741\transformed\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] C:\Users\Ilham Hadisyah\.gradle\caches\transforms-3\5de7c65e0d17aebc2ff103198dd352c7\transformed\exifinterface-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Ilham Hadisyah\.gradle\caches\transforms-3\8fe6ec07e52a762d0f2e6ff520d0dadb\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\Ilham Hadisyah\.gradle\caches\transforms-3\167c4640888108901c787ad944282737\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.3.1] C:\Users\Ilham Hadisyah\.gradle\caches\transforms-3\a2101fcb9363d7781d560e5f8dd8cbe7\transformed\lifecycle-livedata-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] C:\Users\Ilham Hadisyah\.gradle\caches\transforms-3\47f55c443832e022d019e2072fe83b84\transformed\lifecycle-livedata-core-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\Ilham Hadisyah\.gradle\caches\transforms-3\0ab15bc51b5b4367cade7027f049dfb8\transformed\core-runtime-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Ilham Hadisyah\.gradle\caches\transforms-3\1acc2aa98692e7f803f648c885b3da7a\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Ilham Hadisyah\.gradle\caches\transforms-3\3600ee6cb78ae6b378dd6cf8d890e999\transformed\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Ilham Hadisyah\.gradle\caches\transforms-3\b72d0100fce2532a23f2140d6169ad66\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\Ilham Hadisyah\.gradle\caches\transforms-3\0550edcfd7bad58359dd64fc1f1fa8fb\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\Ilham Hadisyah\.gradle\caches\transforms-3\cd4337fad4b5ef3d18abceb29230efad\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:17:1-24:12
+INJECTED from D:\android\Konami-Game-List-App\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from D:\android\Konami-Game-List-App\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from D:\android\Konami-Game-List-App\app\src\main\AndroidManifest.xml:2:1-23:12
 	package
-		ADDED from /home/ilham/AndroidStudioProjects/ListOfGames/app/src/main/AndroidManifest.xml:3:5-38
-		INJECTED from /home/ilham/AndroidStudioProjects/ListOfGames/app/src/main/AndroidManifest.xml
-		INJECTED from /home/ilham/AndroidStudioProjects/ListOfGames/app/src/main/AndroidManifest.xml
+		ADDED from D:\android\Konami-Game-List-App\app\src\main\AndroidManifest.xml:3:5-38
+		INJECTED from D:\android\Konami-Game-List-App\app\src\main\AndroidManifest.xml
+		INJECTED from D:\android\Konami-Game-List-App\app\src\main\AndroidManifest.xml
 	android:versionName
-		INJECTED from /home/ilham/AndroidStudioProjects/ListOfGames/app/src/main/AndroidManifest.xml
-		ADDED from /home/ilham/AndroidStudioProjects/ListOfGames/app/src/main/AndroidManifest.xml:2:1-23:12
-		INJECTED from /home/ilham/AndroidStudioProjects/ListOfGames/app/src/main/AndroidManifest.xml
+		INJECTED from D:\android\Konami-Game-List-App\app\src\main\AndroidManifest.xml
+		ADDED from D:\android\Konami-Game-List-App\app\src\main\AndroidManifest.xml:2:1-23:12
+		INJECTED from D:\android\Konami-Game-List-App\app\src\main\AndroidManifest.xml
 	android:versionCode
-		INJECTED from /home/ilham/AndroidStudioProjects/ListOfGames/app/src/main/AndroidManifest.xml
-		ADDED from /home/ilham/AndroidStudioProjects/ListOfGames/app/src/main/AndroidManifest.xml:2:1-23:12
-		INJECTED from /home/ilham/AndroidStudioProjects/ListOfGames/app/src/main/AndroidManifest.xml
+		INJECTED from D:\android\Konami-Game-List-App\app\src\main\AndroidManifest.xml
+		ADDED from D:\android\Konami-Game-List-App\app\src\main\AndroidManifest.xml:2:1-23:12
+		INJECTED from D:\android\Konami-Game-List-App\app\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from /home/ilham/AndroidStudioProjects/ListOfGames/app/src/main/AndroidManifest.xml:2:11-69
+		ADDED from D:\android\Konami-Game-List-App\app\src\main\AndroidManifest.xml:2:11-69
 uses-permission#android.permission.INTERNET
-ADDED from /home/ilham/AndroidStudioProjects/ListOfGames/app/src/main/AndroidManifest.xml:4:5-66
+ADDED from D:\android\Konami-Game-List-App\app\src\main\AndroidManifest.xml:4:5-66
 	android:name
-		ADDED from /home/ilham/AndroidStudioProjects/ListOfGames/app/src/main/AndroidManifest.xml:4:22-64
+		ADDED from D:\android\Konami-Game-List-App\app\src\main\AndroidManifest.xml:4:22-64
 application
-ADDED from /home/ilham/AndroidStudioProjects/ListOfGames/app/src/main/AndroidManifest.xml:5:5-21:19
-MERGED from [com.google.android.material:material:1.4.0] /home/ilham/.gradle/caches/transforms-3/b3a1b10170dc3b0d106f5a2151e726da/transformed/material-1.4.0/AndroidManifest.xml:22:5-20
-MERGED from [com.google.android.material:material:1.4.0] /home/ilham/.gradle/caches/transforms-3/b3a1b10170dc3b0d106f5a2151e726da/transformed/material-1.4.0/AndroidManifest.xml:22:5-20
-MERGED from [androidx.constraintlayout:constraintlayout:2.1.0] /home/ilham/.gradle/caches/transforms-3/793820e7ab749e289a6dfadebd25f7a8/transformed/constraintlayout-2.1.0/AndroidManifest.xml:9:5-20
-MERGED from [androidx.constraintlayout:constraintlayout:2.1.0] /home/ilham/.gradle/caches/transforms-3/793820e7ab749e289a6dfadebd25f7a8/transformed/constraintlayout-2.1.0/AndroidManifest.xml:9:5-20
-MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] /home/ilham/.gradle/caches/transforms-3/abf3bdbc47784067beeac3acd13d9edb/transformed/lifecycle-extensions-2.0.0/AndroidManifest.xml:22:5-23:19
-MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] /home/ilham/.gradle/caches/transforms-3/abf3bdbc47784067beeac3acd13d9edb/transformed/lifecycle-extensions-2.0.0/AndroidManifest.xml:22:5-23:19
-MERGED from [com.squareup.picasso:picasso:2.71828] /home/ilham/.gradle/caches/transforms-3/1db028e6c333d69d17c897acc411ad49/transformed/jetified-picasso-2.71828/AndroidManifest.xml:7:5-12:19
-MERGED from [com.squareup.picasso:picasso:2.71828] /home/ilham/.gradle/caches/transforms-3/1db028e6c333d69d17c897acc411ad49/transformed/jetified-picasso-2.71828/AndroidManifest.xml:7:5-12:19
-MERGED from [androidx.core:core:1.6.0] /home/ilham/.gradle/caches/transforms-3/55610e6da332357fac2ae4dc08261766/transformed/core-1.6.0/AndroidManifest.xml:24:5-89
-MERGED from [androidx.core:core:1.6.0] /home/ilham/.gradle/caches/transforms-3/55610e6da332357fac2ae4dc08261766/transformed/core-1.6.0/AndroidManifest.xml:24:5-89
-MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] /home/ilham/.gradle/caches/transforms-3/c3aafc433c0ee5b31cd4d483df286dc5/transformed/jetified-lifecycle-process-2.0.0/AndroidManifest.xml:22:5-28:19
-MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] /home/ilham/.gradle/caches/transforms-3/c3aafc433c0ee5b31cd4d483df286dc5/transformed/jetified-lifecycle-process-2.0.0/AndroidManifest.xml:22:5-28:19
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/ilham/.gradle/caches/transforms-3/b81b1ab99a616afc06a427b981a57a9b/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/ilham/.gradle/caches/transforms-3/b81b1ab99a616afc06a427b981a57a9b/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+ADDED from D:\android\Konami-Game-List-App\app\src\main\AndroidManifest.xml:5:5-21:19
+MERGED from [com.google.android.material:material:1.4.0] C:\Users\Ilham Hadisyah\.gradle\caches\transforms-3\96e910cabd2169c0d2f61f4f23fec1ce\transformed\material-1.4.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.4.0] C:\Users\Ilham Hadisyah\.gradle\caches\transforms-3\96e910cabd2169c0d2f61f4f23fec1ce\transformed\material-1.4.0\AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.0] C:\Users\Ilham Hadisyah\.gradle\caches\transforms-3\5652eb31fae7ea9bc387005e989e410e\transformed\constraintlayout-2.1.0\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.0] C:\Users\Ilham Hadisyah\.gradle\caches\transforms-3\5652eb31fae7ea9bc387005e989e410e\transformed\constraintlayout-2.1.0\AndroidManifest.xml:9:5-20
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] C:\Users\Ilham Hadisyah\.gradle\caches\transforms-3\4c3e6e4a6a2ec34e44b83f5a3f8897ef\transformed\lifecycle-extensions-2.0.0\AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] C:\Users\Ilham Hadisyah\.gradle\caches\transforms-3\4c3e6e4a6a2ec34e44b83f5a3f8897ef\transformed\lifecycle-extensions-2.0.0\AndroidManifest.xml:22:5-23:19
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\Ilham Hadisyah\.gradle\caches\transforms-3\698cefe31c7099783ce9a50401f769b8\transformed\jetified-picasso-2.71828\AndroidManifest.xml:7:5-12:19
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\Ilham Hadisyah\.gradle\caches\transforms-3\698cefe31c7099783ce9a50401f769b8\transformed\jetified-picasso-2.71828\AndroidManifest.xml:7:5-12:19
+MERGED from [androidx.core:core:1.6.0] C:\Users\Ilham Hadisyah\.gradle\caches\transforms-3\3f46c171d7716136b037b47f5a6f889e\transformed\core-1.6.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.6.0] C:\Users\Ilham Hadisyah\.gradle\caches\transforms-3\3f46c171d7716136b037b47f5a6f889e\transformed\core-1.6.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\Ilham Hadisyah\.gradle\caches\transforms-3\aae1b1d03318d4c5c89c4e8a3c4e2356\transformed\jetified-lifecycle-process-2.0.0\AndroidManifest.xml:22:5-28:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\Ilham Hadisyah\.gradle\caches\transforms-3\aae1b1d03318d4c5c89c4e8a3c4e2356\transformed\jetified-lifecycle-process-2.0.0\AndroidManifest.xml:22:5-28:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Ilham Hadisyah\.gradle\caches\transforms-3\8fe6ec07e52a762d0f2e6ff520d0dadb\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Ilham Hadisyah\.gradle\caches\transforms-3\8fe6ec07e52a762d0f2e6ff520d0dadb\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
 	android:appComponentFactory
-		ADDED from [androidx.core:core:1.6.0] /home/ilham/.gradle/caches/transforms-3/55610e6da332357fac2ae4dc08261766/transformed/core-1.6.0/AndroidManifest.xml:24:18-86
+		ADDED from [androidx.core:core:1.6.0] C:\Users\Ilham Hadisyah\.gradle\caches\transforms-3\3f46c171d7716136b037b47f5a6f889e\transformed\core-1.6.0\AndroidManifest.xml:24:18-86
 	android:supportsRtl
-		ADDED from /home/ilham/AndroidStudioProjects/ListOfGames/app/src/main/AndroidManifest.xml:10:9-35
+		ADDED from D:\android\Konami-Game-List-App\app\src\main\AndroidManifest.xml:10:9-35
 	android:label
-		ADDED from /home/ilham/AndroidStudioProjects/ListOfGames/app/src/main/AndroidManifest.xml:8:9-41
+		ADDED from D:\android\Konami-Game-List-App\app\src\main\AndroidManifest.xml:8:9-41
 	android:roundIcon
-		ADDED from /home/ilham/AndroidStudioProjects/ListOfGames/app/src/main/AndroidManifest.xml:9:9-54
+		ADDED from D:\android\Konami-Game-List-App\app\src\main\AndroidManifest.xml:9:9-54
 	android:icon
-		ADDED from /home/ilham/AndroidStudioProjects/ListOfGames/app/src/main/AndroidManifest.xml:7:9-43
+		ADDED from D:\android\Konami-Game-List-App\app\src\main\AndroidManifest.xml:7:9-43
 	android:allowBackup
-		ADDED from /home/ilham/AndroidStudioProjects/ListOfGames/app/src/main/AndroidManifest.xml:6:9-35
+		ADDED from D:\android\Konami-Game-List-App\app\src\main\AndroidManifest.xml:6:9-35
 	android:theme
-		ADDED from /home/ilham/AndroidStudioProjects/ListOfGames/app/src/main/AndroidManifest.xml:11:9-49
+		ADDED from D:\android\Konami-Game-List-App\app\src\main\AndroidManifest.xml:11:9-49
 activity#com.example.listofgames.ui.MainActivity
-ADDED from /home/ilham/AndroidStudioProjects/ListOfGames/app/src/main/AndroidManifest.xml:12:9-20:20
+ADDED from D:\android\Konami-Game-List-App\app\src\main\AndroidManifest.xml:12:9-20:20
 	android:exported
-		ADDED from /home/ilham/AndroidStudioProjects/ListOfGames/app/src/main/AndroidManifest.xml:14:13-36
+		ADDED from D:\android\Konami-Game-List-App\app\src\main\AndroidManifest.xml:14:13-36
 	android:name
-		ADDED from /home/ilham/AndroidStudioProjects/ListOfGames/app/src/main/AndroidManifest.xml:13:13-44
+		ADDED from D:\android\Konami-Game-List-App\app\src\main\AndroidManifest.xml:13:13-44
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from /home/ilham/AndroidStudioProjects/ListOfGames/app/src/main/AndroidManifest.xml:15:13-19:29
+ADDED from D:\android\Konami-Game-List-App\app\src\main\AndroidManifest.xml:15:13-19:29
 action#android.intent.action.MAIN
-ADDED from /home/ilham/AndroidStudioProjects/ListOfGames/app/src/main/AndroidManifest.xml:16:17-69
+ADDED from D:\android\Konami-Game-List-App\app\src\main\AndroidManifest.xml:16:17-69
 	android:name
-		ADDED from /home/ilham/AndroidStudioProjects/ListOfGames/app/src/main/AndroidManifest.xml:16:25-66
+		ADDED from D:\android\Konami-Game-List-App\app\src\main\AndroidManifest.xml:16:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /home/ilham/AndroidStudioProjects/ListOfGames/app/src/main/AndroidManifest.xml:18:17-77
+ADDED from D:\android\Konami-Game-List-App\app\src\main\AndroidManifest.xml:18:17-77
 	android:name
-		ADDED from /home/ilham/AndroidStudioProjects/ListOfGames/app/src/main/AndroidManifest.xml:18:27-74
+		ADDED from D:\android\Konami-Game-List-App\app\src\main\AndroidManifest.xml:18:27-74
 uses-sdk
-INJECTED from /home/ilham/AndroidStudioProjects/ListOfGames/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from /home/ilham/AndroidStudioProjects/ListOfGames/app/src/main/AndroidManifest.xml
-INJECTED from /home/ilham/AndroidStudioProjects/ListOfGames/app/src/main/AndroidManifest.xml
-MERGED from [androidx.databinding:viewbinding:7.0.0] /home/ilham/.gradle/caches/transforms-3/adaf1e17893e36073e47f0a7979d375b/transformed/jetified-viewbinding-7.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.databinding:viewbinding:7.0.0] /home/ilham/.gradle/caches/transforms-3/adaf1e17893e36073e47f0a7979d375b/transformed/jetified-viewbinding-7.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.core:core-ktx:1.6.0] /home/ilham/.gradle/caches/transforms-3/2ae071a20af21b0eab3fba04603e06d3/transformed/jetified-core-ktx-1.6.0/AndroidManifest.xml:5:5-7:41
-MERGED from [androidx.core:core-ktx:1.6.0] /home/ilham/.gradle/caches/transforms-3/2ae071a20af21b0eab3fba04603e06d3/transformed/jetified-core-ktx-1.6.0/AndroidManifest.xml:5:5-7:41
-MERGED from [com.google.android.material:material:1.4.0] /home/ilham/.gradle/caches/transforms-3/b3a1b10170dc3b0d106f5a2151e726da/transformed/material-1.4.0/AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.material:material:1.4.0] /home/ilham/.gradle/caches/transforms-3/b3a1b10170dc3b0d106f5a2151e726da/transformed/material-1.4.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.constraintlayout:constraintlayout:2.1.0] /home/ilham/.gradle/caches/transforms-3/793820e7ab749e289a6dfadebd25f7a8/transformed/constraintlayout-2.1.0/AndroidManifest.xml:5:5-7:41
-MERGED from [androidx.constraintlayout:constraintlayout:2.1.0] /home/ilham/.gradle/caches/transforms-3/793820e7ab749e289a6dfadebd25f7a8/transformed/constraintlayout-2.1.0/AndroidManifest.xml:5:5-7:41
-MERGED from [androidx.appcompat:appcompat:1.3.1] /home/ilham/.gradle/caches/transforms-3/61acccfaa5da4b0e583a74dfb4979cab/transformed/appcompat-1.3.1/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.appcompat:appcompat:1.3.1] /home/ilham/.gradle/caches/transforms-3/61acccfaa5da4b0e583a74dfb4979cab/transformed/appcompat-1.3.1/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.3.1] /home/ilham/.gradle/caches/transforms-3/7fc6bd5a02220f44771e338a04447c69/transformed/jetified-lifecycle-livedata-ktx-2.3.1/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.3.1] /home/ilham/.gradle/caches/transforms-3/7fc6bd5a02220f44771e338a04447c69/transformed/jetified-lifecycle-livedata-ktx-2.3.1/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.3.1] /home/ilham/.gradle/caches/transforms-3/13dba33c1cf2c734452952b93704a061/transformed/jetified-lifecycle-livedata-core-ktx-2.3.1/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.3.1] /home/ilham/.gradle/caches/transforms-3/13dba33c1cf2c734452952b93704a061/transformed/jetified-lifecycle-livedata-core-ktx-2.3.1/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] /home/ilham/.gradle/caches/transforms-3/abf3bdbc47784067beeac3acd13d9edb/transformed/lifecycle-extensions-2.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] /home/ilham/.gradle/caches/transforms-3/abf3bdbc47784067beeac3acd13d9edb/transformed/lifecycle-extensions-2.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.viewpager2:viewpager2:1.0.0] /home/ilham/.gradle/caches/transforms-3/93a46ec76b5dbff36cd15eef62f6695c/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.viewpager2:viewpager2:1.0.0] /home/ilham/.gradle/caches/transforms-3/93a46ec76b5dbff36cd15eef62f6695c/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.fragment:fragment:1.3.6] /home/ilham/.gradle/caches/transforms-3/798cfbf5c4e6d531e7ee2fb1e3e48321/transformed/fragment-1.3.6/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.fragment:fragment:1.3.6] /home/ilham/.gradle/caches/transforms-3/798cfbf5c4e6d531e7ee2fb1e3e48321/transformed/fragment-1.3.6/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.activity:activity:1.2.4] /home/ilham/.gradle/caches/transforms-3/37fd7562e6b0ddaaa35a21781854ae1d/transformed/jetified-activity-1.2.4/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.activity:activity:1.2.4] /home/ilham/.gradle/caches/transforms-3/37fd7562e6b0ddaaa35a21781854ae1d/transformed/jetified-activity-1.2.4/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /home/ilham/.gradle/caches/transforms-3/0db9a459d00b28ae4bf0f68cbf9b0403/transformed/jetified-lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /home/ilham/.gradle/caches/transforms-3/0db9a459d00b28ae4bf0f68cbf9b0403/transformed/jetified-lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /home/ilham/.gradle/caches/transforms-3/171e5935551f5d89958ee9a4251cef3a/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /home/ilham/.gradle/caches/transforms-3/171e5935551f5d89958ee9a4251cef3a/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/ilham/.gradle/caches/transforms-3/20ca16fca85f4b2a4984298eb74f0520/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/ilham/.gradle/caches/transforms-3/20ca16fca85f4b2a4984298eb74f0520/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.loader:loader:1.0.0] /home/ilham/.gradle/caches/transforms-3/78d86d3ffb2a95636c992f4c00fedd82/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.loader:loader:1.0.0] /home/ilham/.gradle/caches/transforms-3/78d86d3ffb2a95636c992f4c00fedd82/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /home/ilham/.gradle/caches/transforms-3/54f87c9117341ab6f00d0bd7ac140546/transformed/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /home/ilham/.gradle/caches/transforms-3/54f87c9117341ab6f00d0bd7ac140546/transformed/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:20:5-22:41
-MERGED from [com.squareup.picasso:picasso:2.71828] /home/ilham/.gradle/caches/transforms-3/1db028e6c333d69d17c897acc411ad49/transformed/jetified-picasso-2.71828/AndroidManifest.xml:5:5-44
-MERGED from [com.squareup.picasso:picasso:2.71828] /home/ilham/.gradle/caches/transforms-3/1db028e6c333d69d17c897acc411ad49/transformed/jetified-picasso-2.71828/AndroidManifest.xml:5:5-44
-MERGED from [androidx.appcompat:appcompat-resources:1.3.1] /home/ilham/.gradle/caches/transforms-3/93b562d80bb9f52548458110fe3a510b/transformed/jetified-appcompat-resources-1.3.1/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.appcompat:appcompat-resources:1.3.1] /home/ilham/.gradle/caches/transforms-3/93b562d80bb9f52548458110fe3a510b/transformed/jetified-appcompat-resources-1.3.1/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/ilham/.gradle/caches/transforms-3/9f3f70fe3c5748f47a60d6df968b472b/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/ilham/.gradle/caches/transforms-3/9f3f70fe3c5748f47a60d6df968b472b/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /home/ilham/.gradle/caches/transforms-3/b5e4aec913c998c2c6b5b69c7b85b336/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /home/ilham/.gradle/caches/transforms-3/b5e4aec913c998c2c6b5b69c7b85b336/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.transition:transition:1.2.0] /home/ilham/.gradle/caches/transforms-3/9a6ba5868ffa21e3a502d3b6d1546e24/transformed/transition-1.2.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.transition:transition:1.2.0] /home/ilham/.gradle/caches/transforms-3/9a6ba5868ffa21e3a502d3b6d1546e24/transformed/transition-1.2.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/ilham/.gradle/caches/transforms-3/33a73de36ff91b4481bcbf823554dde6/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/ilham/.gradle/caches/transforms-3/33a73de36ff91b4481bcbf823554dde6/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/ilham/.gradle/caches/transforms-3/ac54c9e26f63dfb8bb8bf158b2fa48c5/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/ilham/.gradle/caches/transforms-3/ac54c9e26f63dfb8bb8bf158b2fa48c5/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.viewpager:viewpager:1.0.0] /home/ilham/.gradle/caches/transforms-3/334ee10e193b8bbdd77482f85dc62e54/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.viewpager:viewpager:1.0.0] /home/ilham/.gradle/caches/transforms-3/334ee10e193b8bbdd77482f85dc62e54/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.recyclerview:recyclerview:1.1.0] /home/ilham/.gradle/caches/transforms-3/1a6c2cfe6e08007d4aabde446059d675/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.recyclerview:recyclerview:1.1.0] /home/ilham/.gradle/caches/transforms-3/1a6c2cfe6e08007d4aabde446059d675/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.customview:customview:1.0.0] /home/ilham/.gradle/caches/transforms-3/6dfef288d5aeac785249c5e283668e6b/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.customview:customview:1.0.0] /home/ilham/.gradle/caches/transforms-3/6dfef288d5aeac785249c5e283668e6b/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.core:core:1.6.0] /home/ilham/.gradle/caches/transforms-3/55610e6da332357fac2ae4dc08261766/transformed/core-1.6.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.core:core:1.6.0] /home/ilham/.gradle/caches/transforms-3/55610e6da332357fac2ae4dc08261766/transformed/core-1.6.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/ilham/.gradle/caches/transforms-3/c836c6e09b32f781302c2d82c41a67f3/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/ilham/.gradle/caches/transforms-3/c836c6e09b32f781302c2d82c41a67f3/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.savedstate:savedstate:1.1.0] /home/ilham/.gradle/caches/transforms-3/c7d56aac42a83c569a3c9407e05f4e14/transformed/jetified-savedstate-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.savedstate:savedstate:1.1.0] /home/ilham/.gradle/caches/transforms-3/c7d56aac42a83c569a3c9407e05f4e14/transformed/jetified-savedstate-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] /home/ilham/.gradle/caches/transforms-3/c3aafc433c0ee5b31cd4d483df286dc5/transformed/jetified-lifecycle-process-2.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] /home/ilham/.gradle/caches/transforms-3/c3aafc433c0ee5b31cd4d483df286dc5/transformed/jetified-lifecycle-process-2.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-service:2.0.0] /home/ilham/.gradle/caches/transforms-3/cfadef132c1112f3e38e6afa9f03f7f9/transformed/jetified-lifecycle-service-2.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-service:2.0.0] /home/ilham/.gradle/caches/transforms-3/cfadef132c1112f3e38e6afa9f03f7f9/transformed/jetified-lifecycle-service-2.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] /home/ilham/.gradle/caches/transforms-3/508005d3b0650c4e16a1a2c503d38b1c/transformed/lifecycle-runtime-2.3.1/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] /home/ilham/.gradle/caches/transforms-3/508005d3b0650c4e16a1a2c503d38b1c/transformed/lifecycle-runtime-2.3.1/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.cardview:cardview:1.0.0] /home/ilham/.gradle/caches/transforms-3/f2aa32899dd0d92b8e2019bd76f2777e/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.cardview:cardview:1.0.0] /home/ilham/.gradle/caches/transforms-3/f2aa32899dd0d92b8e2019bd76f2777e/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.exifinterface:exifinterface:1.0.0] /home/ilham/.gradle/caches/transforms-3/e45ad253c32043c1a59566b9f4d59176/transformed/exifinterface-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.exifinterface:exifinterface:1.0.0] /home/ilham/.gradle/caches/transforms-3/e45ad253c32043c1a59566b9f4d59176/transformed/exifinterface-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/ilham/.gradle/caches/transforms-3/b81b1ab99a616afc06a427b981a57a9b/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/ilham/.gradle/caches/transforms-3/b81b1ab99a616afc06a427b981a57a9b/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.tracing:tracing:1.0.0] /home/ilham/.gradle/caches/transforms-3/93043ba4efcb0a4d2c175dd094557e68/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.tracing:tracing:1.0.0] /home/ilham/.gradle/caches/transforms-3/93043ba4efcb0a4d2c175dd094557e68/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.lifecycle:lifecycle-livedata:2.3.1] /home/ilham/.gradle/caches/transforms-3/2fd68a1780cd5a126d1f127e08ff76af/transformed/lifecycle-livedata-2.3.1/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.lifecycle:lifecycle-livedata:2.3.1] /home/ilham/.gradle/caches/transforms-3/2fd68a1780cd5a126d1f127e08ff76af/transformed/lifecycle-livedata-2.3.1/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /home/ilham/.gradle/caches/transforms-3/fb02655388e1efa90286795986682d0d/transformed/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /home/ilham/.gradle/caches/transforms-3/fb02655388e1efa90286795986682d0d/transformed/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.arch.core:core-runtime:2.1.0] /home/ilham/.gradle/caches/transforms-3/9b849fca4b83e9149fca3748c2b17d26/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.arch.core:core-runtime:2.1.0] /home/ilham/.gradle/caches/transforms-3/9b849fca4b83e9149fca3748c2b17d26/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.interpolator:interpolator:1.0.0] /home/ilham/.gradle/caches/transforms-3/32fcf832b1a1f59d89039bfa7168020c/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.interpolator:interpolator:1.0.0] /home/ilham/.gradle/caches/transforms-3/32fcf832b1a1f59d89039bfa7168020c/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.documentfile:documentfile:1.0.0] /home/ilham/.gradle/caches/transforms-3/cbfdc8e0dd6c76a45b3b9b082003e820/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.documentfile:documentfile:1.0.0] /home/ilham/.gradle/caches/transforms-3/cbfdc8e0dd6c76a45b3b9b082003e820/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/ilham/.gradle/caches/transforms-3/11f03cc4cb081c4ca55734a430f8a6e3/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/ilham/.gradle/caches/transforms-3/11f03cc4cb081c4ca55734a430f8a6e3/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.print:print:1.0.0] /home/ilham/.gradle/caches/transforms-3/9f618cadd33348184d9a5e292d0a8872/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.print:print:1.0.0] /home/ilham/.gradle/caches/transforms-3/9f618cadd33348184d9a5e292d0a8872/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.annotation:annotation-experimental:1.1.0] /home/ilham/.gradle/caches/transforms-3/5486cfd0eaf0289acc7e8bd8ff9badf5/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.annotation:annotation-experimental:1.1.0] /home/ilham/.gradle/caches/transforms-3/5486cfd0eaf0289acc7e8bd8ff9badf5/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
-INJECTED from /home/ilham/AndroidStudioProjects/ListOfGames/app/src/main/AndroidManifest.xml
-INJECTED from /home/ilham/AndroidStudioProjects/ListOfGames/app/src/main/AndroidManifest.xml
+INJECTED from D:\android\Konami-Game-List-App\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\android\Konami-Game-List-App\app\src\main\AndroidManifest.xml
+INJECTED from D:\android\Konami-Game-List-App\app\src\main\AndroidManifest.xml
+MERGED from [androidx.databinding:viewbinding:4.1.3] C:\Users\Ilham Hadisyah\.gradle\caches\transforms-3\2bc6c08f8f132614f088bfef060b4520\transformed\jetified-viewbinding-4.1.3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.databinding:viewbinding:4.1.3] C:\Users\Ilham Hadisyah\.gradle\caches\transforms-3\2bc6c08f8f132614f088bfef060b4520\transformed\jetified-viewbinding-4.1.3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core-ktx:1.6.0] C:\Users\Ilham Hadisyah\.gradle\caches\transforms-3\faff89c9781480492d3beeb39044dcd4\transformed\jetified-core-ktx-1.6.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.6.0] C:\Users\Ilham Hadisyah\.gradle\caches\transforms-3\faff89c9781480492d3beeb39044dcd4\transformed\jetified-core-ktx-1.6.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.material:material:1.4.0] C:\Users\Ilham Hadisyah\.gradle\caches\transforms-3\96e910cabd2169c0d2f61f4f23fec1ce\transformed\material-1.4.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.4.0] C:\Users\Ilham Hadisyah\.gradle\caches\transforms-3\96e910cabd2169c0d2f61f4f23fec1ce\transformed\material-1.4.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.0] C:\Users\Ilham Hadisyah\.gradle\caches\transforms-3\5652eb31fae7ea9bc387005e989e410e\transformed\constraintlayout-2.1.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.0] C:\Users\Ilham Hadisyah\.gradle\caches\transforms-3\5652eb31fae7ea9bc387005e989e410e\transformed\constraintlayout-2.1.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.3.1] C:\Users\Ilham Hadisyah\.gradle\caches\transforms-3\aa64cdf6960026362d41e2a53a56dcdb\transformed\appcompat-1.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.3.1] C:\Users\Ilham Hadisyah\.gradle\caches\transforms-3\aa64cdf6960026362d41e2a53a56dcdb\transformed\appcompat-1.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.3.1] C:\Users\Ilham Hadisyah\.gradle\caches\transforms-3\0202abaaccafcca5b9a4671330283aa9\transformed\jetified-lifecycle-livedata-ktx-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.3.1] C:\Users\Ilham Hadisyah\.gradle\caches\transforms-3\0202abaaccafcca5b9a4671330283aa9\transformed\jetified-lifecycle-livedata-ktx-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.3.1] C:\Users\Ilham Hadisyah\.gradle\caches\transforms-3\1c34cc52550abb810325a57a701c88ca\transformed\jetified-lifecycle-livedata-core-ktx-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.3.1] C:\Users\Ilham Hadisyah\.gradle\caches\transforms-3\1c34cc52550abb810325a57a701c88ca\transformed\jetified-lifecycle-livedata-core-ktx-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] C:\Users\Ilham Hadisyah\.gradle\caches\transforms-3\4c3e6e4a6a2ec34e44b83f5a3f8897ef\transformed\lifecycle-extensions-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] C:\Users\Ilham Hadisyah\.gradle\caches\transforms-3\4c3e6e4a6a2ec34e44b83f5a3f8897ef\transformed\lifecycle-extensions-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Ilham Hadisyah\.gradle\caches\transforms-3\d2ad64aef1b31f01de4d077f48694151\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Ilham Hadisyah\.gradle\caches\transforms-3\d2ad64aef1b31f01de4d077f48694151\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\Ilham Hadisyah\.gradle\caches\transforms-3\8ddd915c030e4f800a90f54d9f82e5be\transformed\fragment-1.3.6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\Ilham Hadisyah\.gradle\caches\transforms-3\8ddd915c030e4f800a90f54d9f82e5be\transformed\fragment-1.3.6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.4] C:\Users\Ilham Hadisyah\.gradle\caches\transforms-3\326f1c788b61134c126464cf515e184c\transformed\jetified-activity-1.2.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.4] C:\Users\Ilham Hadisyah\.gradle\caches\transforms-3\326f1c788b61134c126464cf515e184c\transformed\jetified-activity-1.2.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] C:\Users\Ilham Hadisyah\.gradle\caches\transforms-3\061eb86d1f11920b3fe6071354d0e23d\transformed\jetified-lifecycle-viewmodel-savedstate-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] C:\Users\Ilham Hadisyah\.gradle\caches\transforms-3\061eb86d1f11920b3fe6071354d0e23d\transformed\jetified-lifecycle-viewmodel-savedstate-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\Ilham Hadisyah\.gradle\caches\transforms-3\f4ae1ad8c385c68b7ea62e08b3a8412d\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\Ilham Hadisyah\.gradle\caches\transforms-3\f4ae1ad8c385c68b7ea62e08b3a8412d\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Ilham Hadisyah\.gradle\caches\transforms-3\c79b42bb65bcf0f32586e9b792635c27\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Ilham Hadisyah\.gradle\caches\transforms-3\c79b42bb65bcf0f32586e9b792635c27\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Ilham Hadisyah\.gradle\caches\transforms-3\25a46df0648c20e43b3fdcff4a8766e2\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Ilham Hadisyah\.gradle\caches\transforms-3\25a46df0648c20e43b3fdcff4a8766e2\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] C:\Users\Ilham Hadisyah\.gradle\caches\transforms-3\cd121951937eaa9011403c87ea4922ec\transformed\lifecycle-viewmodel-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] C:\Users\Ilham Hadisyah\.gradle\caches\transforms-3\cd121951937eaa9011403c87ea4922ec\transformed\lifecycle-viewmodel-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\Ilham Hadisyah\.gradle\caches\transforms-3\698cefe31c7099783ce9a50401f769b8\transformed\jetified-picasso-2.71828\AndroidManifest.xml:5:5-44
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\Ilham Hadisyah\.gradle\caches\transforms-3\698cefe31c7099783ce9a50401f769b8\transformed\jetified-picasso-2.71828\AndroidManifest.xml:5:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.3.1] C:\Users\Ilham Hadisyah\.gradle\caches\transforms-3\89a6a611b05ae01ce2aed75e90d0e7f9\transformed\jetified-appcompat-resources-1.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.3.1] C:\Users\Ilham Hadisyah\.gradle\caches\transforms-3\89a6a611b05ae01ce2aed75e90d0e7f9\transformed\jetified-appcompat-resources-1.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Ilham Hadisyah\.gradle\caches\transforms-3\e6de65a51395dc3bad441f6fc631ccf3\transformed\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Ilham Hadisyah\.gradle\caches\transforms-3\e6de65a51395dc3bad441f6fc631ccf3\transformed\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\Ilham Hadisyah\.gradle\caches\transforms-3\c8f447214305f2883bab7ebd1b954eda\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\Ilham Hadisyah\.gradle\caches\transforms-3\c8f447214305f2883bab7ebd1b954eda\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\Ilham Hadisyah\.gradle\caches\transforms-3\60774fe33d87977db90d8e2fb01d6bb6\transformed\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\Ilham Hadisyah\.gradle\caches\transforms-3\60774fe33d87977db90d8e2fb01d6bb6\transformed\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Ilham Hadisyah\.gradle\caches\transforms-3\ac8a8548b48905de80ab47ddc25da5eb\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Ilham Hadisyah\.gradle\caches\transforms-3\ac8a8548b48905de80ab47ddc25da5eb\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Ilham Hadisyah\.gradle\caches\transforms-3\9f9063bbaa1a488b6013cbf104321b98\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Ilham Hadisyah\.gradle\caches\transforms-3\9f9063bbaa1a488b6013cbf104321b98\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Ilham Hadisyah\.gradle\caches\transforms-3\a686db9e271dd23b7d66aee47e98382b\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Ilham Hadisyah\.gradle\caches\transforms-3\a686db9e271dd23b7d66aee47e98382b\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Ilham Hadisyah\.gradle\caches\transforms-3\9e6ac5e549cdc30475ba135bf968441d\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Ilham Hadisyah\.gradle\caches\transforms-3\9e6ac5e549cdc30475ba135bf968441d\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Ilham Hadisyah\.gradle\caches\transforms-3\97b1f4fec3c2806584dc83b9e1e7958e\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Ilham Hadisyah\.gradle\caches\transforms-3\97b1f4fec3c2806584dc83b9e1e7958e\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.6.0] C:\Users\Ilham Hadisyah\.gradle\caches\transforms-3\3f46c171d7716136b037b47f5a6f889e\transformed\core-1.6.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.6.0] C:\Users\Ilham Hadisyah\.gradle\caches\transforms-3\3f46c171d7716136b037b47f5a6f889e\transformed\core-1.6.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Ilham Hadisyah\.gradle\caches\transforms-3\f1d848eaf007dfb4f9228b772cc44027\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Ilham Hadisyah\.gradle\caches\transforms-3\f1d848eaf007dfb4f9228b772cc44027\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.1.0] C:\Users\Ilham Hadisyah\.gradle\caches\transforms-3\5064f63324c1789e8ddc0334603fbab5\transformed\jetified-savedstate-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] C:\Users\Ilham Hadisyah\.gradle\caches\transforms-3\5064f63324c1789e8ddc0334603fbab5\transformed\jetified-savedstate-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\Ilham Hadisyah\.gradle\caches\transforms-3\aae1b1d03318d4c5c89c4e8a3c4e2356\transformed\jetified-lifecycle-process-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\Ilham Hadisyah\.gradle\caches\transforms-3\aae1b1d03318d4c5c89c4e8a3c4e2356\transformed\jetified-lifecycle-process-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-service:2.0.0] C:\Users\Ilham Hadisyah\.gradle\caches\transforms-3\4116bacfcd03626d8bafbe003b740584\transformed\jetified-lifecycle-service-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-service:2.0.0] C:\Users\Ilham Hadisyah\.gradle\caches\transforms-3\4116bacfcd03626d8bafbe003b740584\transformed\jetified-lifecycle-service-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] C:\Users\Ilham Hadisyah\.gradle\caches\transforms-3\9c82f8ab2d5206caa6017e7d0246c30f\transformed\lifecycle-runtime-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] C:\Users\Ilham Hadisyah\.gradle\caches\transforms-3\9c82f8ab2d5206caa6017e7d0246c30f\transformed\lifecycle-runtime-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Ilham Hadisyah\.gradle\caches\transforms-3\5abf9b6cc672b347d7bc087a4fdb3741\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Ilham Hadisyah\.gradle\caches\transforms-3\5abf9b6cc672b347d7bc087a4fdb3741\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] C:\Users\Ilham Hadisyah\.gradle\caches\transforms-3\5de7c65e0d17aebc2ff103198dd352c7\transformed\exifinterface-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] C:\Users\Ilham Hadisyah\.gradle\caches\transforms-3\5de7c65e0d17aebc2ff103198dd352c7\transformed\exifinterface-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Ilham Hadisyah\.gradle\caches\transforms-3\8fe6ec07e52a762d0f2e6ff520d0dadb\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Ilham Hadisyah\.gradle\caches\transforms-3\8fe6ec07e52a762d0f2e6ff520d0dadb\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\Ilham Hadisyah\.gradle\caches\transforms-3\167c4640888108901c787ad944282737\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\Ilham Hadisyah\.gradle\caches\transforms-3\167c4640888108901c787ad944282737\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.3.1] C:\Users\Ilham Hadisyah\.gradle\caches\transforms-3\a2101fcb9363d7781d560e5f8dd8cbe7\transformed\lifecycle-livedata-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.3.1] C:\Users\Ilham Hadisyah\.gradle\caches\transforms-3\a2101fcb9363d7781d560e5f8dd8cbe7\transformed\lifecycle-livedata-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] C:\Users\Ilham Hadisyah\.gradle\caches\transforms-3\47f55c443832e022d019e2072fe83b84\transformed\lifecycle-livedata-core-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] C:\Users\Ilham Hadisyah\.gradle\caches\transforms-3\47f55c443832e022d019e2072fe83b84\transformed\lifecycle-livedata-core-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\Ilham Hadisyah\.gradle\caches\transforms-3\0ab15bc51b5b4367cade7027f049dfb8\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\Ilham Hadisyah\.gradle\caches\transforms-3\0ab15bc51b5b4367cade7027f049dfb8\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Ilham Hadisyah\.gradle\caches\transforms-3\1acc2aa98692e7f803f648c885b3da7a\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Ilham Hadisyah\.gradle\caches\transforms-3\1acc2aa98692e7f803f648c885b3da7a\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Ilham Hadisyah\.gradle\caches\transforms-3\3600ee6cb78ae6b378dd6cf8d890e999\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Ilham Hadisyah\.gradle\caches\transforms-3\3600ee6cb78ae6b378dd6cf8d890e999\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Ilham Hadisyah\.gradle\caches\transforms-3\b72d0100fce2532a23f2140d6169ad66\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Ilham Hadisyah\.gradle\caches\transforms-3\b72d0100fce2532a23f2140d6169ad66\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Ilham Hadisyah\.gradle\caches\transforms-3\0550edcfd7bad58359dd64fc1f1fa8fb\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Ilham Hadisyah\.gradle\caches\transforms-3\0550edcfd7bad58359dd64fc1f1fa8fb\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\Ilham Hadisyah\.gradle\caches\transforms-3\cd4337fad4b5ef3d18abceb29230efad\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\Ilham Hadisyah\.gradle\caches\transforms-3\cd4337fad4b5ef3d18abceb29230efad\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
+INJECTED from D:\android\Konami-Game-List-App\app\src\main\AndroidManifest.xml
+INJECTED from D:\android\Konami-Game-List-App\app\src\main\AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from /home/ilham/AndroidStudioProjects/ListOfGames/app/src/main/AndroidManifest.xml
-		ADDED from /home/ilham/AndroidStudioProjects/ListOfGames/app/src/main/AndroidManifest.xml
-		INJECTED from /home/ilham/AndroidStudioProjects/ListOfGames/app/src/main/AndroidManifest.xml
+		INJECTED from D:\android\Konami-Game-List-App\app\src\main\AndroidManifest.xml
+		ADDED from D:\android\Konami-Game-List-App\app\src\main\AndroidManifest.xml
+		INJECTED from D:\android\Konami-Game-List-App\app\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from /home/ilham/AndroidStudioProjects/ListOfGames/app/src/main/AndroidManifest.xml
-		ADDED from /home/ilham/AndroidStudioProjects/ListOfGames/app/src/main/AndroidManifest.xml
-		INJECTED from /home/ilham/AndroidStudioProjects/ListOfGames/app/src/main/AndroidManifest.xml
+		INJECTED from D:\android\Konami-Game-List-App\app\src\main\AndroidManifest.xml
+		ADDED from D:\android\Konami-Game-List-App\app\src\main\AndroidManifest.xml
+		INJECTED from D:\android\Konami-Game-List-App\app\src\main\AndroidManifest.xml
 provider#com.squareup.picasso.PicassoProvider
-ADDED from [com.squareup.picasso:picasso:2.71828] /home/ilham/.gradle/caches/transforms-3/1db028e6c333d69d17c897acc411ad49/transformed/jetified-picasso-2.71828/AndroidManifest.xml:8:9-11:40
+ADDED from [com.squareup.picasso:picasso:2.71828] C:\Users\Ilham Hadisyah\.gradle\caches\transforms-3\698cefe31c7099783ce9a50401f769b8\transformed\jetified-picasso-2.71828\AndroidManifest.xml:8:9-11:40
 	android:authorities
-		ADDED from [com.squareup.picasso:picasso:2.71828] /home/ilham/.gradle/caches/transforms-3/1db028e6c333d69d17c897acc411ad49/transformed/jetified-picasso-2.71828/AndroidManifest.xml:10:13-72
+		ADDED from [com.squareup.picasso:picasso:2.71828] C:\Users\Ilham Hadisyah\.gradle\caches\transforms-3\698cefe31c7099783ce9a50401f769b8\transformed\jetified-picasso-2.71828\AndroidManifest.xml:10:13-72
 	android:exported
-		ADDED from [com.squareup.picasso:picasso:2.71828] /home/ilham/.gradle/caches/transforms-3/1db028e6c333d69d17c897acc411ad49/transformed/jetified-picasso-2.71828/AndroidManifest.xml:11:13-37
+		ADDED from [com.squareup.picasso:picasso:2.71828] C:\Users\Ilham Hadisyah\.gradle\caches\transforms-3\698cefe31c7099783ce9a50401f769b8\transformed\jetified-picasso-2.71828\AndroidManifest.xml:11:13-37
 	android:name
-		ADDED from [com.squareup.picasso:picasso:2.71828] /home/ilham/.gradle/caches/transforms-3/1db028e6c333d69d17c897acc411ad49/transformed/jetified-picasso-2.71828/AndroidManifest.xml:9:13-64
+		ADDED from [com.squareup.picasso:picasso:2.71828] C:\Users\Ilham Hadisyah\.gradle\caches\transforms-3\698cefe31c7099783ce9a50401f769b8\transformed\jetified-picasso-2.71828\AndroidManifest.xml:9:13-64
 provider#androidx.lifecycle.ProcessLifecycleOwnerInitializer
-ADDED from [androidx.lifecycle:lifecycle-process:2.0.0] /home/ilham/.gradle/caches/transforms-3/c3aafc433c0ee5b31cd4d483df286dc5/transformed/jetified-lifecycle-process-2.0.0/AndroidManifest.xml:23:9-27:43
+ADDED from [androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\Ilham Hadisyah\.gradle\caches\transforms-3\aae1b1d03318d4c5c89c4e8a3c4e2356\transformed\jetified-lifecycle-process-2.0.0\AndroidManifest.xml:23:9-27:43
 	android:authorities
-		ADDED from [androidx.lifecycle:lifecycle-process:2.0.0] /home/ilham/.gradle/caches/transforms-3/c3aafc433c0ee5b31cd4d483df286dc5/transformed/jetified-lifecycle-process-2.0.0/AndroidManifest.xml:25:13-69
+		ADDED from [androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\Ilham Hadisyah\.gradle\caches\transforms-3\aae1b1d03318d4c5c89c4e8a3c4e2356\transformed\jetified-lifecycle-process-2.0.0\AndroidManifest.xml:25:13-69
 	android:multiprocess
-		ADDED from [androidx.lifecycle:lifecycle-process:2.0.0] /home/ilham/.gradle/caches/transforms-3/c3aafc433c0ee5b31cd4d483df286dc5/transformed/jetified-lifecycle-process-2.0.0/AndroidManifest.xml:27:13-40
+		ADDED from [androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\Ilham Hadisyah\.gradle\caches\transforms-3\aae1b1d03318d4c5c89c4e8a3c4e2356\transformed\jetified-lifecycle-process-2.0.0\AndroidManifest.xml:27:13-40
 	android:exported
-		ADDED from [androidx.lifecycle:lifecycle-process:2.0.0] /home/ilham/.gradle/caches/transforms-3/c3aafc433c0ee5b31cd4d483df286dc5/transformed/jetified-lifecycle-process-2.0.0/AndroidManifest.xml:26:13-37
+		ADDED from [androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\Ilham Hadisyah\.gradle\caches\transforms-3\aae1b1d03318d4c5c89c4e8a3c4e2356\transformed\jetified-lifecycle-process-2.0.0\AndroidManifest.xml:26:13-37
 	android:name
-		ADDED from [androidx.lifecycle:lifecycle-process:2.0.0] /home/ilham/.gradle/caches/transforms-3/c3aafc433c0ee5b31cd4d483df286dc5/transformed/jetified-lifecycle-process-2.0.0/AndroidManifest.xml:24:13-79
+		ADDED from [androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\Ilham Hadisyah\.gradle\caches\transforms-3\aae1b1d03318d4c5c89c4e8a3c4e2356\transformed\jetified-lifecycle-process-2.0.0\AndroidManifest.xml:24:13-79
